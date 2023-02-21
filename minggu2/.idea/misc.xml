@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/drawable/circle.xml" value="0.194" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/Linierlayout.xml" value="0.1" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/activity_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/constraint_layout.xml" value="0.25" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/fragment_first.xml" value="0.234375" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/frame_layout.xml" value="0.25" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/horizontal_scrollview.xml" value="0.4" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/linierlayout.xml" value="0.264" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/materialdesign.xml" value="0.264" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/relative_layout.xml" value="0.1" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/table_layout.xml" value="0.25" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/test.xml" value="0.25" />
+        <entry key="..\:/Belajar_Programing/Android Studio/app/src/main/res/layout/vertikal_scrollview.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
