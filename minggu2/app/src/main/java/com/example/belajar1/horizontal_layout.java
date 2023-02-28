@@ -16,5 +16,6 @@ public class horizontal_layout extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 setContentView(R.layout.horizontal_scrollview);
+        getSupportActionBar().setTitle("Mobile Native");
     }
 }

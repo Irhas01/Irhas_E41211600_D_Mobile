@@ -15,6 +15,7 @@ public class vertikal_layout extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-setContentView(R.layout.vertikal_scrollview);
+        setContentView(R.layout.vertikal_scrollview);
+        getSupportActionBar().setTitle("Mobile Native");
     }
 }

@@ -9,13 +9,17 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.belajar1.R;
 
 public class linierActivity extends AppCompatActivity {
-    EditText to,subject,message;
+    EditText to, subject, message;
     Button send;
+
     @Override
-    protected void onCreate(Bundle savedInstanceState){
-super.onCreate(savedInstanceState);
-setContentView(R.layout.linierlayout);
-to = findViewById(R.id.to);
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.linierlayout);
+
+        getSupportActionBar().setTitle("Mobile Native");
+
+        to = findViewById(R.id.to);
         subject = findViewById(R.id.subject);
         message = findViewById(R.id.message);
         send = findViewById(R.id.send);

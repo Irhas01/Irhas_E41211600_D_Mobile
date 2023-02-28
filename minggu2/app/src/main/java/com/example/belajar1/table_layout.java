@@ -16,5 +16,8 @@ public class table_layout extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.table_layout);
+        getSupportActionBar().setTitle("Mobile Native");
     }
+
+
 }

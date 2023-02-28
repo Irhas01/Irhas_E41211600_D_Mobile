@@ -10,5 +10,6 @@ public class materialdesign extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.materialdesign);
+        getSupportActionBar().setTitle("Mobile Native");
     }
 }

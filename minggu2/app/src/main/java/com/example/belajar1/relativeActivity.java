@@ -37,6 +37,8 @@ public class relativeActivity extends AppCompatActivity  {
                 int month = cldr.get(Calendar.MONTH);
                 int year = cldr.get(Calendar.YEAR);
 
+                getSupportActionBar().setTitle("Mobile Native");
+
                 picker = new DatePickerDialog(relativeActivity.this,
                         new DatePickerDialog.OnDateSetListener() {
                             @Override
