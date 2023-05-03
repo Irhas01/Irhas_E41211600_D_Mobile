@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minggu6</string>
+    <string name="add_text">ADD TEXT</string>
+    <string name="click_to_view">Click to View</string>
+    <string name="save_as_public">SAVE AS PUBLIC</string>
+    <string name="save_as_private">SAVE AS PRIVATE</string>
+    <string name="show_public_data">SHOW PUBLIC </string>
+    <string name="show_private_data">SHOW PRIVATE </string>
+    <string name="back">Back</string>
+</resources>
