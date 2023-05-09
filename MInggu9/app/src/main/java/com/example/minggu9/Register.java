@@ -44,11 +44,9 @@ public class Register extends AppCompatActivity {
         View view = null;
         boolean cancel = false;
 
-
         String repassword = mViewRepassword.getText().toString();
         String user = mViewUser.getText().toString();
         String password = mViewPassword.getText().toString();
-
 
         if (TextUtils.isEmpty(user)){
             mViewUser.setError("This field is required");
